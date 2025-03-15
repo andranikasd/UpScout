@@ -1,7 +1,3 @@
-Below is a simple **README.md** template you can use for your “UpScout” repository. Adjust and expand as needed.
-
----
-
 # UpScout
 
 **UpScout** is a Telegram bot that periodically checks for new jobs posted on Upwork in a specific category (or multiple categories) and sends relevant notifications to a Telegram channel. The idea is to simplify the process of staying up-to-date on new freelance gigs.
